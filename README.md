@@ -2,7 +2,7 @@
 My first repository
 c'est mon premier paroles pour git-hub
 
-You can use the [editor on github] (https://github.com/zoserqh/hello_word/edit/master/README.md) to maintain and preview the content for you website in Markdown files.
+You can use the [editor on Github] (https://github.com/zoserqh/hello_word/edit/master/README.md) to maintain and preview the content for you website in Markdown files.
 
 Whenever you commit to thid repository, Github Pages will run [jekyll](https://jekyllrb.com/) to rebuild the pages in your site,from the content in your Markdown files.
 
